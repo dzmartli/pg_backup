@@ -1,2 +1,2 @@
-# pg_backup
-pg backup
+## pg_backup  
+Script for Postgres DB backup.
